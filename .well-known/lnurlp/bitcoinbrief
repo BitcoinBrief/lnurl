@@ -1,0 +1,1 @@
+{"status":"OK","tag":"payRequest","commentAllowed":255,"callback":"https://getalby.com/lnurlp/bitcoinbrief/callback","metadata":"[[\"text/identifier\",\"bitcoinbrief@getalby.com\"],[\"text/plain\",\"Sats for bitcoinbrief\"]]","minSendable":1000,"maxSendable":11000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false}}}
